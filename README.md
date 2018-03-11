@@ -25,7 +25,7 @@ A simple usage example:
     void main() async {
       var validator = new Validator();
       var user = new User()
-      ..email = 'email@gmail.com'
+        ..email = 'email@gmail.com'
         ..id = 2
         ..phone = '123123';
         
@@ -41,4 +41,4 @@ For more examples see -
 ## Tests
 Run in console(from root directory)
 
-`pub run test .`
+`pub run test test  .`

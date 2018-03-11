@@ -1,4 +1,4 @@
-import 'package:validator/validator.dart';
+import 'package:validator/dto_validator.dart';
 
 class Avatar {
   int id;
