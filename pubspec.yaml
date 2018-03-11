@@ -1,4 +1,4 @@
-name: dto_validator
+name: validator
 description: Validator of dto
 version: 1.0.0
 homepage: https://github.com/shindakioku/dto_validator
